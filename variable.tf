@@ -6,4 +6,4 @@ variable "rglocation" {
     default = "Eastus"
   
 }
-This is a variable file 
+This is a git fetch
